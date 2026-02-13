@@ -17,11 +17,11 @@ Inspired by Game of Thrones / A Song of Ice and Fire.
 ## Quickstart
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/kuzhxxv/westeros-rice/main/setup.sh)
-
+```
 ## Screenshots
 ```bash
 insert screenshots here
-
+```
 ## Requirements
 Arch Linux (or Arch-based)
 KDE Plasma 6 (tested on 6.x)
